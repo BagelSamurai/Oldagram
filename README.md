@@ -3,6 +3,7 @@
 ## Project Introduction
 Oldagram is a simple, responsive web application inspired by Instagram, but featuring classic historical artists. The app displays a feed of posts that are dynamically generated from a data array using JavaScript. Users can scroll through the feed and interact with the posts by clicking the like button to increase the like count.
 
+# Demo Gif:
 ![Oldagram Demo](demo.gif) 
 
 ## What I Learned
